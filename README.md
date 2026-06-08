@@ -42,8 +42,6 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Power Query
 
 ## Dashboard Preview
-<img width="1350" height="704" alt="image" src="https://github.com/user-attachments/assets/69d6225d-0d59-47d3-b3f6-151942a98563" />
-
 ![Sales Dashboard](Sales_Dashboard.png)
 
 ## Business Insights
