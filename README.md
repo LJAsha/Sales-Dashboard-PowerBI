@@ -6,6 +6,9 @@ Interactive Sales Analysis Dashboard built using Power BI
 ## Overview
 This project presents an interactive Power BI dashboard designed to analyze sales performance, customer segments, product categories, and regional trends.
 
+## Business Problem
+Sales managers need a centralized reporting solution to monitor revenue, order trends, customer segments, and regional performance. This dashboard provides actionable insights to support business decision-making and performance tracking.
+
 ## Tools Used
 - Power BI
 - Power Query
@@ -32,7 +35,14 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Data Cleaning
 - Data Transformation
 - Data Modeling
+    Imported and transformed sales data using Power Query.
+    Created relationships between tables.
+    Built DAX measures for KPI calculations.
+    Optimized the data model for reporting performance.
 - DAX Measures
+    Total Sales = SUM(Sales[Sales])
+    Total Orders = COUNT(Sales[Order ID])
+    Average Sales = DIVIDE([Total Sales],[Total Orders])
 - Dashboard Development
 - Data Visualization
 - KPI Analysis
@@ -51,6 +61,21 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Consumer segment accounted for the highest revenue.
 - September recorded the highest order volume.
 
+## Project Workflow
+1. Data Collection
+2. Data Cleaning
+3. Data Transformation
+4. Data Modeling
+5. DAX Calculations
+6. Dashboard Development
+7. Business Insight Generation
+
+## Data Source
+Dataset sourced from Kaggle and used for educational and portfolio purposes.
+Source: Sales Dataset
+
 ## Author
 Asha L J
 Aspiring Data Analyst
+Skills:
+SQL | Power BI | Excel | Data Visualization | Business Intelligence | Data Analysis
