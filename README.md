@@ -61,6 +61,14 @@ Sales managers need a centralized reporting solution to monitor revenue, order t
 - Consumer segment accounted for the highest revenue.
 - September recorded the highest order volume.
 
+## Download Project Files
+The Power BI project file can be downloaded directly from this repository.
+Files Included:
+- SalesDashboard.pbix
+- Sales.csv
+- Dashboard Screenshot
+Note: GitHub may not preview .pbix files in the browser due to file size limitations. Download the .pbix file and open it in Power BI Desktop to explore the interactive dashboard.
+
 ## Project Workflow
 1. Data Collection
 2. Data Cleaning
